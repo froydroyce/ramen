@@ -3,5 +3,6 @@ class Noodles
     @type = type
     @length = length
     @slurpability = slurpability
+    @egg = egg
   end
 end
